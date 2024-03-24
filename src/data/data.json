@@ -1,0 +1,74 @@
+{
+    "container1": {
+      "headerText1": "HEY! I'M",
+      "headerText2": "THAR HTUT NYAN",
+      "paragraphText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam aliquet velit ac quam aliquet, at consectetur nisi fermentum. Ut euismod, dolor a lobortis porta, ligula felis tempor nisi, a mattis magna ligula vitae nisi."
+    },
+    "container2": {
+      "servicesHeaderText": "SERVICES 🤓",
+      "services": [
+        {
+          "title": "Design",
+          "description": "A beautifully crafted design solution tailored to your needs.",
+          "buttonText": "Learn More",
+          "icon": "https://cdn3d.iconscout.com/3d/premium/thumb/artist-tool-7045457-5740252.png?f=webp"
+        },
+        {
+          "title": "Developer",
+          "description": "Tailored solutions for developers.",
+          "buttonText": "Learn More",
+          "icon": "https://cdn3d.iconscout.com/3d/premium/thumb/web-development-5374063-4496032.png?f=webp"
+        },
+        {
+          "title": "UI/UX",
+          "description": "Tailored experiences for UI/UX enthusiasts.",
+          "buttonText": "Learn More",
+          "icon": "https://cdn3d.iconscout.com/3d/premium/thumb/email-notification-4798518-3998329.png?f=webp"
+        }
+      ]
+    },
+    "container3": {
+      "headerText": "WORK 🔥",
+      "imageUrls": [
+        "https://cdn.dribbble.com/userupload/6644518/file/original-7a84ffaea555652ebb80eb3f3297b8e3.png?resize=400x300&vertical=center",
+        "https://cdn.dribbble.com/users/549987/screenshots/15139410/media/421245aef1547db561b6a19ec7eba317.jpg?resize=400x300&vertical=center",
+        "https://i.pinimg.com/736x/2e/eb/30/2eeb30dced0bdb8c45abe886e49e1304.jpg",
+        "https://cdn.dribbble.com/users/1726284/screenshots/11583699/media/52aa6ad70c8e8e5b05ba98bb39dcff2d.png?resize=400x300&vertical=center"
+      ]
+    },
+    "container4": {
+      "headerText": "SOME OF MY CLIENTS 🤝",
+      "logos": [
+        {
+          "imageUrl": "https://assets-global.website-files.com/62d949dfc2def403206d5909/62d949dfc2def40baf6d5986_logo3.webp",
+          "altText": "Logo 2"
+        },
+        {
+          "imageUrl": "https://www.ustrucks.co.za/wp-content/uploads/2022/05/logo-1d.png",
+          "altText": "Logo 1"
+        },
+        {
+          "imageUrl": "https://assets-global.website-files.com/62d949dfc2def403206d5909/62d949dfc2def40baf6d5986_logo3.webp",
+          "altText": "Logo 2"
+        },
+        {
+          "imageUrl": "https://www.ustrucks.co.za/wp-content/uploads/2022/05/logo-1d.png",
+          "altText": "Logo 1"
+        }
+      ]
+    },
+    "container5": {
+      "headerText": "RECENT PROJECT 🌏",
+      "imageUrls": [
+        "https://s3.amazonaws.com/blog.invisionapp.com/uploads/2018/05/weather-app-4.png",
+        "https://s.tmimgcdn.com/scr/800x500/207300/meathat-responsive-meat-website-template_207377-original.jpg",
+        "https://i.ytimg.com/vi/MUxT_pUOXhY/maxresdefault.jpg",
+        "https://templatemag.com/wp-content/uploads/hilltown-hotel-website-template.jpg"
+      ]
+    },
+    "container6": {
+      "headerText": "LET'S CONNECT",
+      "imageUrl": "https://static.vecteezy.com/system/resources/previews/024/346/431/original/3d-happy-cartoon-boy-on-transparent-background-generative-ai-png.png"
+    }
+  }
+  

@@ -36,3 +36,9 @@
     transform: rotate(360deg);
   }
 }
+
+@layer utilities {
+  .filter-blue:hover {
+    @apply filter brightness-110 saturate-100 hue-rotate-180;
+  }
+}
