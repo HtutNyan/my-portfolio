@@ -28,7 +28,7 @@ function Container1() {
         {/* Logos at the bottom */}
         <div className="flex justify-between mt-4">
           <img src="https://assets-global.website-files.com/62d949dfc2def403206d5909/62d949dfc2def40baf6d5986_logo3.webp" alt="Logo 1" className="w-40 h-auto" />
-          <img src="https://bonnet-immobilier.com/wp-content/uploads/2022/02/LOGOIPSUM-02.png" alt="Logo 2" className="w-40 h-auto" />
+          <img src="https://viprabusiness.com/wp-content/uploads/2022/01/LOGOIPSUM-06.png" alt="Logo 2" className="w-40 h-auto" />
           <img src="https://dstal.com.au/wp-content/uploads/2021/09/logoipsum.png" alt="Logo 3" className="w-40 h-auto" />
           <img src="https://viprabusiness.com/wp-content/uploads/2022/01/LOGOIPSUM-05.png" alt="Logo 4" className="w-40 h-auto" />
           <img src="https://viprabusiness.com/wp-content/uploads/2022/01/LOGOIPSUM-06.png" alt="Logo 5" className="w-40 h-auto" />
