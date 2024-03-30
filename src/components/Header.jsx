@@ -1,9 +1,9 @@
 import React from 'react';
-import { Link } from 'react-router-dom'; // Import Link
+import { Link } from 'react-router-dom';
 
 function Header() {
   return (
-    <header className="bg-transparent text-white py-4 flex justify-between items-center">
+    <header className="bg-transparent text-white py-4 flex flex-col lg:flex-row justify-between items-center">
       {/* Left section with logo and navigation links */}
       <div className="flex items-center">
         {/* Logo */}
@@ -17,9 +17,9 @@ function Header() {
         </nav>
       </div>
       {/* Right section with "Contact Us" button */}
-      <div>
+      <div className="mt-4 lg:mt-0">
         <Link to="/contact">
-          <button className="relative overflow-hidden text-white font-bold py-2 px-4 mr-9 rounded-tr-lg rounded-bl-lg text-sm inline-block w-28 h-11" style={{ background: 'linear-gradient(to right, #9291B5, #E7B7B3, #CE8DC2)', textShadow: '0 0 2px #000, 0 0 2px #000', border: '3px double #000' }}>
+          <button className="relative overflow-hidden text-white font-bold py-2 px-4 mr-4 lg:mr-9 rounded-tr-lg rounded-bl-lg text-sm inline-block lg:w-28 h-11" style={{ background: 'linear-gradient(to right, #9291B5, #E7B7B3, #CE8DC2)', textShadow: '0 0 2px #000, 0 0 2px #000', border: '3px double #000' }}>
             Contact Us
           </button>
         </Link>
