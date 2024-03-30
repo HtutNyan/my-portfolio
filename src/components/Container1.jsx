@@ -26,13 +26,13 @@ function Container1() {
           </div>
         </div>
         {/* Logos at the bottom */}
-        <div className="flex justify-between mt-4">
-          <img src="https://assets-global.website-files.com/62d949dfc2def403206d5909/62d949dfc2def40baf6d5986_logo3.webp" alt="Logo 1" className="w-40 h-auto" />
-          <img src="https://viprabusiness.com/wp-content/uploads/2022/01/LOGOIPSUM-06.png" alt="Logo 2" className="w-40 h-auto" />
-          <img src="https://dstal.com.au/wp-content/uploads/2021/09/logoipsum.png" alt="Logo 3" className="w-40 h-auto" />
-          <img src="https://viprabusiness.com/wp-content/uploads/2022/01/LOGOIPSUM-05.png" alt="Logo 4" className="w-40 h-auto" />
-          <img src="https://viprabusiness.com/wp-content/uploads/2022/01/LOGOIPSUM-06.png" alt="Logo 5" className="w-40 h-auto" />
-          <img src="https://assets-global.website-files.com/62d949dfc2def403206d5909/62d949dfc2def40baf6d5986_logo3.webp" alt="Logo 6" className="w-40 h-auto" />
+        <div className="flex justify-between mt-4 flex-wrap">
+        <img src="https://assets-global.website-files.com/62d949dfc2def403206d5909/62d949dfc2def40baf6d5986_logo3.webp" alt="Logo 1" className="w-24 lg:w-40 h-auto mb-4" />
+        <img src="https://viprabusiness.com/wp-content/uploads/2022/01/LOGOIPSUM-06.png" alt="Logo 2" className="w-24 lg:w-40 h-auto mb-4" />
+        <img src="https://dstal.com.au/wp-content/uploads/2021/09/logoipsum.png" alt="Logo 3" className="w-24 lg:w-40 h-auto mb-4" />
+        <img src="https://viprabusiness.com/wp-content/uploads/2022/01/LOGOIPSUM-05.png" alt="Logo 4" className="w-24 lg:w-40 h-auto mb-4" />
+        <img src="https://viprabusiness.com/wp-content/uploads/2022/01/LOGOIPSUM-06.png" alt="Logo 5" className="w-24 lg:w-40 h-auto mb-4" />
+        <img src="https://assets-global.website-files.com/62d949dfc2def403206d5909/62d949dfc2def40baf6d5986_logo3.webp" alt="Logo 6" className="w-24 lg:w-40 h-auto mb-4" />
         </div>
       </div>
     </div>
